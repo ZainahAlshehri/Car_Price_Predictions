@@ -35,9 +35,9 @@ fuelsystem|int
 enginesize|int
 
 # Tools:
-•	Pandas and NumPy packages to manipulate data. 
-•	Matplotlib library for visualizing data. 
-•	LinearRegression from the sklearn.linear_model class of the sklearn module, to perform the linear regression then predicted the price. 
+*	Pandas and NumPy packages to manipulate data. 
+*	Matplotlib library for visualizing data. 
+	LinearRegression from the sklearn.linear_model class of the sklearn module, to perform the linear regression then predicted the price. 
 •	mean_absolute_error from the sklearn.metrics module to measure the accuracy of the model. 
 •	Jupyter notebook to execute the code. 
 
