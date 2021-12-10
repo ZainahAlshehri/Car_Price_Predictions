@@ -5,34 +5,34 @@ The goal of this project is that we are going to build a linear regression model
 # Data Description:
 |Features |Type
 |:-------:|:-------:|
-car_ID
-symboling|int
+car_ID|int64 
+symboling|int64
 CarName|object
 fueltype|object
-aspiration|int
+aspiration|object
 doornumber|object
 carbody|object
-drivewheel|float64
+drivewheel|object
 enginelocation|object
-wheelbase|int
-price|object
-carlength|int
-carwidth|int
-highwaympg|object
-citympg|object|
-peakrpm|object
+wheelbase|object
+price|float64
+carlength|float64
+carwidth|float64
+highwaympg|int64
+citympg|int64
+peakrpm|int64
 carheight|int
 curbweight|int
-cylindernumber|int
+cylindernumber|object
 enginesize|int
-horsepower|object
-fuelsystem|int
+horsepower|int64
+fuelsystem|object
 highwaympg|float
-compressionratio|object
+compressionratio|float64
 stroke|float64
-boreratio|int
+boreratio|float64
 fuelsystem|int
-enginesize|int
+enginesize|int64
 
 # Tools:
 *	Pandas and NumPy packages to manipulate data. 
