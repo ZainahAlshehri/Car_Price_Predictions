@@ -1,4 +1,4 @@
-# Car_Price_Predictions  
+# Car Price Predictions  
 # Overview:
 The goal of this project is that we are going to build a linear regression model that predicts the prices of the cars based on the features. using the data from the Kaggle website . We will do a comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, and evaluation.
 
